@@ -8,4 +8,4 @@ Two groups of data are used to create this graph, including the location and the
 
 Several problems remain unsolved in this sketch. First I cannot establish a function to adjust the font size properly with the size of the canvas. Secondly it is annoying to figure out the location of countries manually.
 
-![alt tag](https://raw.githubusercontent.com/ZitingShen/The-Top-10-Countries-with-the-Largest-Population/master/Population.jpg)
+![alt tag](https://github.com/ZitingShen/Computational-Arts/blob/master/PopulationGraph/Population.jpg)
