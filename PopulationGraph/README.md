@@ -1,4 +1,4 @@
-Top-10-Countries-with-Largest-Populations
+Population Graph
 ================================================
 Hover the mouse on the year to check the top 10 countries with the largest populations then. Press the mouse to obtain the detailed number of the populations. The area of the circle is positively correlated to the populations.
 
