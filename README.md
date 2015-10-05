@@ -1,2 +1,2 @@
-# Processing-Practices
+# Computational Arts
 These are some practice programs written in Intro to Computing, the CS intro class of my college freshman year. They are written in Processing, a Java-based visual arts programming languages, and produce beautiful computational arts works, including line arts, statistical graphs, maps, etc. By learning Processing and writing these programs, I understood more how OOP programming languages work and how to apply computer science to arts, statistics and other fields. They horned both my creativity and programming implementation, and showed me another side of potentials of informational technology.
