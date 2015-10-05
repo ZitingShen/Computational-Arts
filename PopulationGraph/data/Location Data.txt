@@ -1,0 +1,16 @@
+China	0.801	0.296
+India	0.716	0.378
+United States	0.222	0.290
+Russia	0.779	0.122
+Japan	0.887	0.300
+Indonesia	0.837	0.522
+Germany	0.520	0.214
+Brazil	0.362	0.544
+United Kingdom	0.493	0.194
+Italy	0.534	0.262
+Bangladesh	0.792	0.214
+Pakistan	0.688	0.338
+Nigeria	0.514	0.452
+Mexico	0.214	0.360
+Ethiopia	0.610	0.446
+Philippines	0.843	0.215
